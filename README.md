@@ -1,4 +1,4 @@
-# co6f84cc6b47cec27070e6448
+# Birthday Gift Site (Scrimba Challenge)
 
 Quick start:
 
